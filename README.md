@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Business Blog Card by ScriptJoss} | devChallenges</h1>
+<h1 align="center">Business Blog Card by ScriptJoss | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/business-blog-card" target="_blank">Business Blog Card</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -37,9 +37,9 @@
 
 ## Overview
 
-![screenshot](../resources/project_image.jpg)
+![screenshot](./resources/project_image.jpg)
 
-Project View
+Project view.
 
 ## What I learned
 
